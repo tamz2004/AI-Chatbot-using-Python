@@ -86,7 +86,7 @@ By understanding the model training process, you can appreciate the effort that 
    pip install Transformers
    pip install flask
    ```
-3.Download Pre-trained Model:
+3. Download Pre-trained Model:
 
 You will need a pre-trained GPT-2 model from the Hugging Face model hub. Download the model you want to use and place it in the project directory.
 
